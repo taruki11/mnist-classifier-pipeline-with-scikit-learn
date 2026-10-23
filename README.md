@@ -13,9 +13,9 @@ python scaffold.py
 - [x] **1.** load_mnist
 - [x] **2.** binary_target
 - [x] **3.** train_sgd
-- [ ] **4.** cross_val_predictions
-- [ ] **5.** confusion_counts
-- [ ] **6.** precision_recall_f1
+- [x] **4.** cross_val_predictions
+- [x] **5.** confusion_counts
+- [x] **6.** precision_recall_f1
 - [ ] **7.** threshold_for_precision
 - [ ] **8.** evaluate_at_threshold
 - [ ] **9.** roc_auc
